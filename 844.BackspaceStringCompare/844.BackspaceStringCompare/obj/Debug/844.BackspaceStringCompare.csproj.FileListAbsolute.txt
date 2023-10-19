@@ -1,0 +1,7 @@
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\bin\Debug\_844.BackspaceStringCompare.exe
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\bin\Debug\_844.BackspaceStringCompare.pdb
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\obj\Debug\844.BackspaceStringCompare.csproj.AssemblyReference.cache
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\obj\Debug\844.BackspaceStringCompare.csproj.SuggestedBindingRedirects.cache
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\obj\Debug\844.BackspaceStringCompare.csproj.CoreCompileInputs.cache
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\obj\Debug\_844.BackspaceStringCompare.exe
+C:\Users\foxty\OneDrive\Робочий стіл\Робочий простір\Проєкти\Leetcode\844.BackspaceStringCompare\844.BackspaceStringCompare\obj\Debug\_844.BackspaceStringCompare.pdb
